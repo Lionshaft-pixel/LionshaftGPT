@@ -11,5 +11,5 @@ You will need Python 3.10+ and Node.js 18+ installed on your local machine.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/LionshaftR1.git
+git clone https://github.com/Lionhaft-pixel/LionshaftR1.git
 cd LionshaftR1
